@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <suite-files>
+    <suite-file path="testng.xml"/>
+    <suite-file path="testngMultipleClasses.xml"/>
+  </suite-files>
+  <test verbose="2" name="Default test">
+  </test> <!-- Default test -->
+</suite> <!-- Failed suite [Default suite] -->
